@@ -24,7 +24,7 @@ I am __Lance Chong Thau Ngen__, a seasoned data scientist with ~7 years of progr
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
-[Fun Facts](#Fun Facts) <br>
+[Fun Facts](#fun facts) <br>
 
 <!-- ABOUT Section Ends -->
 
